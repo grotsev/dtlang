@@ -1,0 +1,21 @@
+{
+  "client": {
+    "name": "Mickle",
+    "account": [
+      {
+        "id": "guid-123",
+        "type": "cash",
+        "openDate": "2016-01-31",
+        "sum": 2000
+      },
+      {
+        "id": "guid-124",
+        "type": "installment",
+        "openDate": "2016-02-15",
+        "sum": 100
+      }
+    ]
+  },
+  "in": {},
+  "out": {}
+}
